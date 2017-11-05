@@ -41,6 +41,7 @@ self.view = beautifulGradient.theGradientBackground(**self.view**, hexColor1: **
 <h2>Delightful colors:</h2>
 Colors name  | Sample color image
 ------------ | ------------------
+
 Crimson |  ![ScreenShot](/screenshots/crimson.png)
 Lavender Blush | ![ScreenShot](/screenshots/lavenderBlush.png) 
 Greyish Pink | ![ScreenShot](/screenshots/greyishPink.png)
