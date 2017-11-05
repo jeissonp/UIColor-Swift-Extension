@@ -39,9 +39,9 @@ let beautifulGradient = UIColor()<br>
 self.view = beautifulGradient.theGradientBackground(**self.view**, hexColor1: **Insert hex color string ex. "eef2f3"**, hexColor2: **Insert hex color string ex. "70e1f5"**)
 
 <h2>Delightful colors:</h2>
+
 Colors name  | Sample color image
 ------------ | ------------------
-
 Crimson |  ![ScreenShot](/screenshots/crimson.png)
 Lavender Blush | ![ScreenShot](/screenshots/lavenderBlush.png) 
 Greyish Pink | ![ScreenShot](/screenshots/greyishPink.png)
